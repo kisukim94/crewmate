@@ -7,6 +7,9 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class IntraApiApplication {
 
 	public static void main(String[] args) {
+		
+		
+		
 		SpringApplication.run(IntraApiApplication.class, args);
 	}
 
